@@ -1,4 +1,3 @@
-
 import Ajv from "ajv";
 import data from "./data.json";
 import { Post } from "./types";
