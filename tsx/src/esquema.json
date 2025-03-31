@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+      "month": { "type": "string" },
+      "positive": { "type": "number" },
+      "negative": { "type": "number" },
+      "death": { "type": "number" },
+      "hospitalized": { "type": "number" },
+      "totalTestResults": { "type": "number" }
+    },
+    "required": ["month", "positive", "negative", "death", "hospitalized", "totalTestResults"]
+  }
+  

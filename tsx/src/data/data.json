@@ -1,0 +1,19 @@
+[
+    {
+      "month": "Enero",
+      "positive": 522459627,
+      "negative": 1688751783,
+      "death": 9269261,
+      "hospitalized": 16262903,
+      "totalTestResults": 7061253472
+    },
+    {
+      "month": "Febrero",
+      "positive": 600000000,
+      "negative": 1700000000,
+      "death": 9400000,
+      "hospitalized": 16500000,
+      "totalTestResults": 7100000000
+    }
+  ]
+  
