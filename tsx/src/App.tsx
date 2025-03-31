@@ -1,6 +1,6 @@
 
 import Ajv from "ajv";
-import data from "./data/data.json";
+import data from "./data.json";
 import { Post } from "./types";
 import "./styles.css";
 
